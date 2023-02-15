@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @BHAVESHGODE
-- 👀 I’m interested in learning coding languages.
-- 🌱 I’m currently learning c++
+- 👋 HI, I’m @BHAVESHGODE !! :)
+- 👀 Computer Science And Engineering at NATIONAL INSTITUE OF TECHNOLOGY,JAMSHEDPUR.
+- 🌱 I’M CURRENTLY LEARNING C++;
+- COMPLETED LEARNING C LANGUAGE .
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me gmail:- bhaveshgode676@gmail.com
+- Linkedin:-https://www.linkedin.com/in/bhavesh-gode-03a80223a/
 
 <!---
 BHAVESHGODE/BHAVESHGODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
